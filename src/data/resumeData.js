@@ -12,14 +12,7 @@ const resumeData = {
     website: "https://www.jobsterx.com/"
   },
   summary:
-    `Strategic and results-oriented Business Operations & HR Leader with 10+ years of
-cross-functional experience spanning Operations Management, Human Resources,
-Strategy Development, Finance Oversight, and Administrative Leadership. Proven
-track record in driving transformation initiatives, building high-performance
-cultures, and aligning people strategy with business goals. Trusted advisor to
-executive leadership, with strong analytical capabilities and a data-driven approach
-to optimize productivity, reduce costs, and enhance organizational performance.
-Currently based in Dubai and available to join immediately.`,
+    `Strategic and results-oriented Business Operations & HR Leader with 10+ years of cross-functional experience spanning Operations Management, Human Resources, Strategy Development, Finance Oversight, and Administrative Leadership. Proven track record in driving transformation initiatives, building high-performance cultures, and aligning people strategy with business goals. Trusted advisor to executive leadership, with strong analytical capabilities and a data-driven approach to optimize productivity, reduce costs, and enhance organizational performance. Currently based in Dubai and available to join immediately.`,
   experience: [
     {
       role: "HR Consultant",
@@ -131,7 +124,7 @@ Currently based in Dubai and available to join immediately.`,
     {
       degree: "Bachelor of Commerce",
       institution: "Govt. National College, Karachi,",
-      country:"Pakistan",
+      country: "Pakistan",
       year: "2017"
     }
   ],
@@ -170,7 +163,12 @@ Currently based in Dubai and available to join immediately.`,
     "Figma",
     "Adobe XD"
   ],
-  hobbies: ["Learning new languages", "Swimming", "Cycling", "Badminton"]
+  hobbies: [
+    "Learning new languages",
+    "Swimming",
+    "Cycling",
+    "Badminton"
+  ]
 };
 
 export default resumeData;
